@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Gerenciador de tempo e tarefas moderno com integração ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
